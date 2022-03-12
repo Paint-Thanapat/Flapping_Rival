@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Block
+  - CheckBG
+  - CheckFloor
+  - CheckCloud
+  - CheckDead
+  - SpeedItem
+  - DeleteItem
+  - BreadItem
+  - Feces
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BG
+    uniqueID: 2207109757
+    locked: 0
+  - name: Ground
+    uniqueID: 3921755325
+    locked: 0
+  - name: Block
+    uniqueID: 3648566031
+    locked: 0
+  - name: Item
+    uniqueID: 2277478409
+    locked: 0
+  - name: Player
+    uniqueID: 1051407531
+    locked: 0
+  - name: FrontGround
+    uniqueID: 3099041647
+    locked: 0
+  - name: GroundItem
+    uniqueID: 2276393909
+    locked: 0
